@@ -17,7 +17,7 @@ description: NYUSH 26' CS | CV & NLP Researcher
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: ./images/avatar.JPG
+avatar: ./images/avatar.jpg
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
@@ -35,12 +35,12 @@ footer-links:
   email: yx3038@nyu.edu
   facebook: 
   flickr:
-  github: ossd-s25
-  instagram: https://www.instagram.com/zephyr31415926/
-  linkedin: https://www.linkedin.com/in/yufeng-felix-xu/
+  github: Zephyr271828
+  instagram: zephyr31415926
+  linkedin: yufeng-felix-xu
   pinterest: 
   twitter:
-  stackoverflow: https://stackoverflow.com/users/29365935/yufeng-xu
+  stackoverflow: users/29365935/yufeng-xu
   # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
