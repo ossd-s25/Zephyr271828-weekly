@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
 
 Hi there, I'm Yufeng Xu, a CS student at NYU Shanghai 26'. I'm also a CV and NLP Researcher at NYU. 
 
