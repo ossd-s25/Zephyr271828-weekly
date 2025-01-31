@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Jan 30 | [link](https://www.openstreetmap.org/changeset/161963345) | Open Street Map | Removed the information of a pharmacy that no longer exists and filled in the info of a new bubble tea store. |
 |     |     |     |      |
 |     |     |     |      |
