@@ -1,2 +1,1 @@
-This is a simple template for the class blog. 
-
+This is the repo of Yufeng Xu's weekly post for [CSCI-UA 480 Open Source Software Development](https://cs.nyu.edu/~jk157/ossd_s25/).
