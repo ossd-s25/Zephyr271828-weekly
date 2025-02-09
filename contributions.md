@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Jan 30 | [OpenStreetMap](https://www.openstreetmap.org/changeset/161963345) | Open Street Map | Removed the information of a pharmacy that no longer exists and filled in the info of a new bubble tea store. |
-|     |     |     |      |
+| Feb 8 | [Github](https://github.com/ossd-s25/wiki/issues/1) | Github Issue | Raised an issue about a missing page on the class wiki |
 |     |     |     |      |
