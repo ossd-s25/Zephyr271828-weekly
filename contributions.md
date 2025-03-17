@@ -27,6 +27,7 @@ Replace the first row with your own contribution.
 | Feb 13 | [Github](https://github.com/joannakl/ossd/issues/139) | Github Issue \& Pull Request | Reported a typo on course website and created a pull request to fix it. |
 | Feb 23 | [Github](https://github.com/ossd-s25/ailunc-weekly/issues/1) | Github Issue | Reported a typo in my classmate's weekly post. |
 | Feb 25 | [Github](https://github.com/ossd-s25/weekly/pull/2) | Github PR | Fixed a typo in the upstream weekly repo (in response to [Andy Lin's issue](https://github.com/ossd-s25/weekly/issues/1)). | 
-| March 1 | [Github](https://github.com/ossd-s25/LuHC409-weekly/issues/1) | Github Issue | Raised issue about broken link \& wrong formatting in my classmate's weekly post and proposed possible solutions. |
-| March 5 | [Github](https://github.com/huggingface/transformers/issues/36536) | Github Issue | Proposed a possible solution for a issue for HF Transformers. |
-| March 15 | [Github](https://github.com/ossd-s25/Harry-Yang0518-weekly/issues/3) | Github Issue | Opened an issue for a post not showing correctly and proposed a solution |
+| Mar 1 | [Github](https://github.com/ossd-s25/LuHC409-weekly/issues/1) | Github Issue | Raised issue about broken link \& wrong formatting in my classmate's weekly post and proposed possible solutions. |
+| Mar 5 | [Github](https://github.com/huggingface/transformers/issues/36536) | Github Issue Solution | Proposed a possible solution for a issue for HF Transformers. |
+| Mar 15 | [Github](https://github.com/ossd-s25/Harry-Yang0518-weekly/issues/3) | Github Issue | Opened an issue for a post not showing correctly and proposed a solution |
+| Mar 17 | [Github](https://github.com/huggingface/transformers/issues/36598#issuecomment-2728111315) | Github Issue Solution | Proposed an explanation of the absence of `lm_head` in `model.named_parameters()` |
