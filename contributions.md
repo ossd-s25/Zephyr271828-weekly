@@ -32,3 +32,4 @@ Replace the first row with your own contribution.
 | Mar 15 | [Github](https://github.com/ossd-s25/Harry-Yang0518-weekly/issues/3) | Github Issue | Opened an issue for a post not showing correctly and proposed a solution |
 | Mar 17 | [Github](https://github.com/huggingface/transformers/issues/36598#issuecomment-2728111315) | Github Issue Solution | Proposed an explanation of the absence of `lm_head` in `model.named_parameters()` |
 | Mar 17 | [Github](https://github.com/huggingface/transformers/pull/36779) | Github PR | Submitted a PR to fix [issue #36758](https://github.com/huggingface/transformers/issues/36758), under review. | 
+| Mar 19 | [Github](https://github.com/NVlabs/Minitron/issues/7) | Github Issue | Solved a code release issue by redirecting the user to another repository. |
