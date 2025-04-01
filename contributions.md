@@ -33,4 +33,4 @@ Replace the first row with your own contribution.
 | Mar 17 | [Github](https://github.com/huggingface/transformers/issues/36598#issuecomment-2728111315) | Github Issue Solution | Proposed an explanation of the absence of `lm_head` in `model.named_parameters()`. |
 | Mar 17 | [Github](https://github.com/huggingface/transformers/pull/36779) | Github PR | Submitted a PR to fix [issue #36758](https://github.com/huggingface/transformers/issues/36758), under review. | 
 | Mar 19 | [Github](https://github.com/NVlabs/Minitron/issues/7) | Github Issue | Solved a code release issue by redirecting the user to another repository. |
-| Mar 31 | [Github](https://github.com/huggingface/transformers/pull/37153) | Github PR | Submitted a PR to fix [issue #37046](https://github.com/huggingface/transformers/issues/37046), under review. |
+| Mar 31 | [Github](https://github.com/huggingface/transformers/pull/37153) | Github PR | Submitted a PR to fix [issue #37046](https://github.com/huggingface/transformers/issues/37046), merged. |
