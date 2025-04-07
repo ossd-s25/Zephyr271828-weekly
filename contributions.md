@@ -34,3 +34,6 @@ Replace the first row with your own contribution.
 | Mar 17 | [Github](https://github.com/huggingface/transformers/pull/36779) | Github PR | Submitted a PR to fix [issue #36758](https://github.com/huggingface/transformers/issues/36758), under review. | 
 | Mar 19 | [Github](https://github.com/NVlabs/Minitron/issues/7) | Github Issue | Solved a code release issue by redirecting the user to another repository. |
 | Mar 31 | [Github](https://github.com/huggingface/transformers/pull/37153) | Github PR | Submitted a PR to fix [issue #37046](https://github.com/huggingface/transformers/issues/37046), merged. |
+| Apr 7 | [Github](https://github.com/foundation-model-stack/foundation-model-stack/issues/384#issuecomment-2784040981) | Github Issue | Proposed a solution for a model loading error. |
+| Apr 7 | [Github](https://github.com/foundation-model-stack/foundation-model-stack/pull/390) | Github PR | Submitted a PR to fix a docstring error. | 
+| Apr 7 | [Github](https://github.com/huggingface/transformers/issues/37303#issuecomment-2784192517) | Github Issue | Propsoed an explanation for a model size mismatch phenomenon. |
