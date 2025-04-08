@@ -37,3 +37,4 @@ Replace the first row with your own contribution.
 | Apr 7 | [Github](https://github.com/foundation-model-stack/foundation-model-stack/issues/384#issuecomment-2784040981) | Github Issue | Proposed a solution for a model loading error. |
 | Apr 7 | [Github](https://github.com/foundation-model-stack/foundation-model-stack/pull/390) | Github PR | Submitted a PR to fix a docstring error. | 
 | Apr 7 | [Github](https://github.com/huggingface/transformers/issues/37303#issuecomment-2784192517) | Github Issue | Propsoed an explanation for a model size mismatch phenomenon. |
+| Apr 8 | [Github](https://github.com/EleutherAI/lm-evaluation-harness/pull/2889) | Github PR | Submitted a PR to add C4 support for lm_evaluation_harness, under review. |
