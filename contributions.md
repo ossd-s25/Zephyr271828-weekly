@@ -39,3 +39,4 @@ Replace the first row with your own contribution.
 | Apr 7 | [Github](https://github.com/huggingface/transformers/issues/37303#issuecomment-2784192517) | Github Issue | Propsoed an explanation for a model size mismatch phenomenon. |
 | Apr 8 | [Github](https://github.com/EleutherAI/lm-evaluation-harness/pull/2889) | Github PR | Submitted a PR to add C4 support for lm_evaluation_harness, under review. |
 | Apr 8 | [Github](https://github.com/EleutherAI/lm-evaluation-harness/pull/2892) | Github PR | Submitted a PR to add AIME support for lm_evaluation_harness, under review. |
+| Apr 10 | [Github](https://github.com/EleutherAI/lm-evaluation-harness/issues/2898) | Github Issue | Opened an issue to improve the behavior of progress bar when doing evaluation. | 
