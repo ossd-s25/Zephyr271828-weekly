@@ -41,3 +41,4 @@ Replace the first row with your own contribution.
 | Apr 8 | [Github](https://github.com/EleutherAI/lm-evaluation-harness/pull/2892) | Github PR | Submitted a PR to add AIME support for lm_evaluation_harness, under review. |
 | Apr 10 | [Github](https://github.com/EleutherAI/lm-evaluation-harness/issues/2898) | Github Issue | Opened an issue to improve the behavior of progress bar when doing evaluation. | 
 | Apr 15 | [Github](https://github.com/EleutherAI/lm-evaluation-harness/issues/2914) | Github Issue | Opened an issue to report unexpected evaluation results. | 
+| Apr 20 | [Github](https://github.com/huggingface/transformers/pull/37640) | Github PR | Submitted a PR to fix incorrect installation instructions, under review. |
