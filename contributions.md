@@ -43,3 +43,6 @@ Replace the first row with your own contribution.
 | Apr 15 | [Github](https://github.com/EleutherAI/lm-evaluation-harness/issues/2914) | Github Issue | Opened an issue to report unexpected evaluation results. | 
 | Apr 20 | [Github](https://github.com/huggingface/transformers/pull/37640) | Github PR | Submitted a PR to fix incorrect installation instructions, under review. |
 | Apr 20 | [Github](https://github.com/huggingface/transformers/pull/37642) | Github PR | Contributed to the PR that implements time-based eval/save/logging strategy. | 
+
+**NOTE: though my last PR was submitted on Apr 20, I'm still working on these PRs recently because they have not been merged.  
+Besides, I use github frequently for research collaborations, organizing AI interest group, and contributing to some of my friends' projects (e.g. HPC cheatsheet), but I don't count them as open source project contributions.** 
